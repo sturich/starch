@@ -4,7 +4,7 @@
 
 - <b>Security Pentest Home Labs (AlgoExpert)</b>
   - [Scanning with Nessus](https://github.com/joshmadakor1/Algorithms-Practice)
-  - Networking Refresher
+  - [Networking Refresher]
   - Scanning and Enumeration
   - Post-Domain compromise attack strategy
   - Post Exploitation
@@ -32,6 +32,31 @@
   - Token Impersonation overview
   - Token Impersonation walkthrough
   - Token Impersonation Mitigation
+
+<h2>👨‍💻 Pentest Playbook:</h2>
+
+ - [Verifying Scope](https://github.com/joshmadakor1/Algorithms-Practice)
+ - Rules of engagement
+ - Vulnerability Scanning
+ - OSINT
+ - Reviewing and Extracting Data
+ - Attack Strategy
+ - Checklists
+ - Client Communication
+  - Rules of engagement
+  - Vulnerability Scanning
+  - OSINT
+  - Reviewing and Extracting Data
+  - Attack Strategy
+  - Checklists
+  - Client Communication
+  
+ <h2>👨‍💻 Governance, Risk and Compliance:</h2>
+
+- <b>GRC (AlgoExpert)</b>
+  - [What is Cyber Security Risk](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practical Auditing]
+ 
 
 <h2>📺 Popular YouTube Videos</h2>
 
