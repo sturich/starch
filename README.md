@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Security Pentest Home Labs (AlgoExpert)</b>
-  - [Scanning with Nessus](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Scanning with Nessus Part 1](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Networking Refresher]
   - Scanning and Enumeration
   - Post-Domain compromise attack strategy
