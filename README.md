@@ -5,7 +5,7 @@
 - <b>Security Pentest Home Labs (AlgoExpert)</b>
   - [Scanning with Nessus Part 1](https://github.com/sturich/Scanning-With-Nessus)
   - [Networking Refresher]
-  - Scanning and Enumeration
+  - [Scanning and Enumeration](https://github.com/sturich/Scanning-Enumeration)
   - Post-Domain compromise attack strategy
   - Post Exploitation
   - Pass Attack
