@@ -10,7 +10,7 @@
   - Post Exploitation
   - Pass Attack
   - Pass Attack Mitigation
-  - New Capstone Lab
+  - [New Capstone Lab Academy Machine]
   - Mimikatz Overview
   - Kerberoasting Overview
   - Kerberoasting Walkthrough
