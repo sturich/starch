@@ -12,7 +12,7 @@
   - Pass Attack Mitigation
   - [New Capstone Lab Academy Machine](https://github.com/sturich/New-Capstone-Acadamy-Machine)
   - [New Capstone Lab Blue machine](https://github.com/sturich/New-Capstone-Lab-Blue-Machine-)
-  - New Capstone Lab Dev machine
+  - [New Capstone Lab Dev machine](https://github.com/sturich/New-Capstone-Lab-Dev-Machine)
   - Mimikatz Overview
   - Kerberoasting Overview
   - Kerberoasting Walkthrough
