@@ -30,13 +30,6 @@
   - Token Impersonation walkthrough
   - Token Impersonation Mitigation
   
- <h2>👨‍💻 Governance, Risk and Compliance:</h2>
-
-- <b>GRC (AlgoExpert)</b>
-  - [What is Cyber Security Risk](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Practical Auditing]
- 
-
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
