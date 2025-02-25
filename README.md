@@ -9,8 +9,11 @@
   - [New Capstone Lab Blue machine](https://github.com/sturich/New-Capstone-Lab-Blue-Machine-)
   - [New Capstone Lab Dev machine](https://github.com/sturich/New-Capstone-Lab-Dev-Machine)
    
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Certification</h2>
 
+
+<h2>🌱 I’m currently learning  </h2>
+- Microsoft AI & ML Professional Certificate (Azure)
 
 <h2> 🤳 Connect with me:</h2>
 
