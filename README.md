@@ -18,7 +18,7 @@
   - [Pentest Playbook](https://academy.tcm-sec.com/p/external-pentest-playbook)
 
 <h2>🌱 I’m currently learning  </h2>
-- [Microsoft AI & ML Professional Certificate]
+  - [Microsoft AI & ML Professional Certificate]
 
 <h2> 🤳 Connect with me:</h2>
 
