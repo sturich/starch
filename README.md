@@ -18,7 +18,7 @@
   - [Pentest Playbook](https://academy.tcm-sec.com/p/external-pentest-playbook)
 
 <h2>🌱 I’m currently learning  </h2>
-- [Microsoft AI & ML Professional Certificate (Azure)](https://www.coursera.org/professional-certificates/microsoft-ai-and-ml-engineering/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s1_en_m_hyb_23-12_x&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6490027433&targetid=&extensionid=&placement=&gad_source=1&gclid=Cj0KCQiA8fW9BhC8ARIsACwHqYrjQKqV3k9wCqtc3RNZ3rzV1rHRw0eOKFpuxcA-yGWm0ldNhd4O49QaAsV9EALw_wcB)
+- [Microsoft AI & ML Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-ai-and-ml-engineering/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s1_en_m_hyb_23-12_x&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6490027433&targetid=&extensionid=&placement=&gad_source=1&gclid=Cj0KCQiA8fW9BhC8ARIsACwHqYrjQKqV3k9wCqtc3RNZ3rzV1rHRw0eOKFpuxcA-yGWm0ldNhd4O49QaAsV9EALw_wcB)
 
 <h2> 🤳 Connect with me:</h2>
 
