@@ -4,7 +4,6 @@
 
 - <b>Security Pentest Home Labs (AlgoExpert)</b>
   - [Scanning with Nessus Part 1](https://github.com/sturich/Scanning-With-Nessus)
-  - [Networking Refresher]
   - [Scanning and Enumeration](https://github.com/sturich/Scanning-Enumeration)
   - Post-Domain compromise attack strategy
   - Post Exploitation
@@ -13,19 +12,15 @@
   - [New Capstone Lab Academy Machine](https://github.com/sturich/New-Capstone-Acadamy-Machine)
   - [New Capstone Lab Blue machine](https://github.com/sturich/New-Capstone-Lab-Blue-Machine-)
   - [New Capstone Lab Dev machine](https://github.com/sturich/New-Capstone-Lab-Dev-Machine)
-  - Mimikatz Overview
-  - Kerberoasting Overview
   - Kerberoasting Walkthrough
   - Kerberoasting Mitigation
   - Introduction to exploit development (Buffer Overflows)
   - Initial internal attack strategy
   - Golden ticket attacks overview
-  - OSINT
   - Exploitation Basics
   - Dumping the NTDS.dit
   - Dumping and cracking hashes
   - Credential dumping with Mimikatz
-  - Cleaning up
   - Active Directory overview
   - Active Directory lab build
   - Attacking Active Directory: Post compromise attacks
@@ -34,24 +29,6 @@
   - Token Impersonation overview
   - Token Impersonation walkthrough
   - Token Impersonation Mitigation
-
-<h2>👨‍💻 Pentest Playbook:</h2>
-
- - [Verifying Scope](https://github.com/joshmadakor1/Algorithms-Practice)
- - Rules of engagement
- - Vulnerability Scanning
- - OSINT
- - Reviewing and Extracting Data
- - Attack Strategy
- - Checklists
- - Client Communication
-  - Rules of engagement
-  - Vulnerability Scanning
-  - OSINT
-  - Reviewing and Extracting Data
-  - Attack Strategy
-  - Checklists
-  - Client Communication
   
  <h2>👨‍💻 Governance, Risk and Compliance:</h2>
 
